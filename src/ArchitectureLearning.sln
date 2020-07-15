@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureLearning.CQRS", "ArchitectureLearning.CQRS\ArchitectureLearning.CQRS.csproj", "{06345853-0BFE-49B4-92FD-51A9C149CD80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureLearning.Kafka", "ArchitectureLearning.Kafka\ArchitectureLearning.Kafka.csproj", "{2F58CE6E-921F-4C0D-B67C-9EAF46B322A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{06345853-0BFE-49B4-92FD-51A9C149CD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06345853-0BFE-49B4-92FD-51A9C149CD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06345853-0BFE-49B4-92FD-51A9C149CD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F58CE6E-921F-4C0D-B67C-9EAF46B322A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F58CE6E-921F-4C0D-B67C-9EAF46B322A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F58CE6E-921F-4C0D-B67C-9EAF46B322A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F58CE6E-921F-4C0D-B67C-9EAF46B322A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
