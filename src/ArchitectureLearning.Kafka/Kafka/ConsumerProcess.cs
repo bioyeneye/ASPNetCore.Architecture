@@ -2,6 +2,7 @@ using System;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using ArchitectureLearning.Kafka.Extensions;
 using Confluent.Kafka;
 
 namespace ArchitectureLearning.Kafka.Kafka

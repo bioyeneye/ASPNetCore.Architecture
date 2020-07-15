@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ArchitectureLearning.Kafka.Kafka
+namespace ArchitectureLearning.Kafka.Extensions
 {
     public class KafkaOptions
     {
